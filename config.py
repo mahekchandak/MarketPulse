@@ -1,0 +1,4 @@
+# Default configurations
+DEFAULT_PERIOD = "1y"
+DEFAULT_INTERVAL = "1d"
+DEFAULT_TICKER = "AAPL"

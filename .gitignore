@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
+venv/
+
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
